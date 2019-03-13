@@ -1,0 +1,14 @@
+/Users/mr.robot/Desktop/QuickApp/QuickApp/bin/Debug/netcoreapp2.1/QuickApp.deps.json
+/Users/mr.robot/Desktop/QuickApp/QuickApp/bin/Debug/netcoreapp2.1/QuickApp.runtimeconfig.json
+/Users/mr.robot/Desktop/QuickApp/QuickApp/bin/Debug/netcoreapp2.1/QuickApp.runtimeconfig.dev.json
+/Users/mr.robot/Desktop/QuickApp/QuickApp/bin/Debug/netcoreapp2.1/QuickApp.dll
+/Users/mr.robot/Desktop/QuickApp/QuickApp/bin/Debug/netcoreapp2.1/QuickApp.pdb
+/Users/mr.robot/Desktop/QuickApp/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.csprojAssemblyReference.cache
+/Users/mr.robot/Desktop/QuickApp/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.csproj.CoreCompileInputs.cache
+/Users/mr.robot/Desktop/QuickApp/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.RazorAssemblyInfo.cache
+/Users/mr.robot/Desktop/QuickApp/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.RazorAssemblyInfo.cs
+/Users/mr.robot/Desktop/QuickApp/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.AssemblyInfoInputs.cache
+/Users/mr.robot/Desktop/QuickApp/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.AssemblyInfo.cs
+/Users/mr.robot/Desktop/QuickApp/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.RazorTargetAssemblyInfo.cache
+/Users/mr.robot/Desktop/QuickApp/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.dll
+/Users/mr.robot/Desktop/QuickApp/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.pdb
