@@ -10,6 +10,8 @@ namespace QuickApp.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        //Controller is optional, prob do this for simplicity or in interview
+        
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
