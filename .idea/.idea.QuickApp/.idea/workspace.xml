@@ -2,43 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e0ba941-19cd-4d35-becd-2fa0af38dbe5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.QuickApp/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.QuickApp/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.QuickApp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.QuickApp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.QuickApp/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/Controllers/ValuesController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/Models/ToDo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/Models/ToDoContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/QuickApp.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/bin/Debug/netcoreapp2.1/QuickApp.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/bin/Debug/netcoreapp2.1/QuickApp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/bin/Debug/netcoreapp2.1/QuickApp.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/bin/Debug/netcoreapp2.1/QuickApp.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/bin/Debug/netcoreapp2.1/QuickApp.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.RazorAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.RazorAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/Debug/netcoreapp2.1/QuickApp.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/QuickApp.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/QuickApp.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/QuickApp.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuickApp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QuickApp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QuickApp/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QuickApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QuickApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuickApp/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/QuickApp/Startup.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,34 +47,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ToDoContext.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QuickApp/Models/ToDoContext.cs">
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QuickApp/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="276">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
-                <marker date="1552520522766" expanded="true" signature="63:303" ph="{...}" />
-                <marker date="1552520522766" expanded="true" signature="106:301" ph="{...}" />
-                <marker date="1552520522766" expanded="true" signature="206:239" ph="{...}" />
+                <marker date="1552521021738" expanded="true" signature="6:253" ph="..." />
+                <marker date="1552521021738" expanded="true" signature="273:1451" ph="{...}" />
+                <marker date="1552521021738" expanded="true" signature="300:1449" ph="{...}" />
+                <marker date="1552521021738" expanded="true" signature="359:422" ph="{...}" />
+                <marker date="1552521021738" expanded="true" signature="645:979" ph="{...}" />
+                <marker date="1552521021738" expanded="true" signature="1167:1443" ph="{...}" />
+                <marker date="1552521021738" expanded="true" signature="1214:1291" ph="{...}" />
+                <marker date="1552521021738" expanded="true" signature="1308:1367" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/QuickApp/Startup.cs">
+      <file leaf-file-name="ToDoController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/QuickApp/Controllers/ToDoController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="31" column="53" lean-forward="true" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+            <state relative-caret-position="385">
+              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding>
-                <marker date="1552520749437" expanded="false" signature="6:439" ph="..." />
-                <marker date="1552520749437" expanded="true" signature="482:1648" ph="{...}" />
-                <marker date="1552520749437" expanded="true" signature="509:1646" ph="{...}" />
-                <marker date="1552520749437" expanded="true" signature="568:631" ph="{...}" />
-                <marker date="1552520749437" expanded="true" signature="854:1176" ph="{...}" />
-                <marker date="1552520749437" expanded="true" signature="1364:1640" ph="{...}" />
-                <marker date="1552520749437" expanded="true" signature="1411:1488" ph="{...}" />
-                <marker date="1552520749437" expanded="true" signature="1505:1564" ph="{...}" />
+                <marker date="1552521497688" expanded="true" signature="6:73" ph="..." />
+                <marker date="1552521497688" expanded="true" signature="105:707" ph="{...}" />
+                <marker date="1552521497688" expanded="true" signature="208:705" ph="{...}" />
+                <marker date="1552521497688" expanded="true" signature="330:699" ph="{...}" />
+                <marker date="1552521497688" expanded="true" signature="422:689" ph="{...}" />
+                <marker date="1552521497688" expanded="true" signature="453:564" ph="/* Create a new TodoItem if collection is empty, ... */" />
               </folding>
             </state>
           </provider>
@@ -118,6 +87,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>using</find>
       <find>value</find>
     </findStrings>
   </component>
@@ -126,6 +96,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/QuickApp/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/QuickApp/Controllers/ToDoController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/QuickApp/Models/ToDoContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/QuickApp/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/QuickApp/Models/ToDo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -137,6 +108,7 @@
         <option value="$PROJECT_DIR$/QuickApp/Models/ToDo.cs" />
         <option value="$PROJECT_DIR$/QuickApp/Models/ToDoContext.cs" />
         <option value="$PROJECT_DIR$/QuickApp/Startup.cs" />
+        <option value="$PROJECT_DIR$/QuickApp/Controllers/ToDoController.cs" />
       </list>
     </option>
   </component>
@@ -241,12 +213,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552518982161</updated>
-      <workItem from="1552518985105" duration="1741000" />
+      <workItem from="1552518985105" duration="2492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1741000" />
+    <option name="totallyTimeSpent" value="2492000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -327,6 +299,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/QuickApp/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <marker date="1552521021738" expanded="true" signature="6:253" ph="..." />
+            <marker date="1552521021738" expanded="true" signature="273:1451" ph="{...}" />
+            <marker date="1552521021738" expanded="true" signature="300:1449" ph="{...}" />
+            <marker date="1552521021738" expanded="true" signature="359:422" ph="{...}" />
+            <marker date="1552521021738" expanded="true" signature="645:979" ph="{...}" />
+            <marker date="1552521021738" expanded="true" signature="1167:1443" ph="{...}" />
+            <marker date="1552521021738" expanded="true" signature="1214:1291" ph="{...}" />
+            <marker date="1552521021738" expanded="true" signature="1308:1367" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickApp/Models/ToDoContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1552520522766" expanded="true" signature="63:303" ph="{...}" />
+            <marker date="1552520522766" expanded="true" signature="106:301" ph="{...}" />
+            <marker date="1552520522766" expanded="true" signature="206:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/QuickApp/Models/ToDo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -338,31 +339,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QuickApp/Models/ToDoContext.cs">
+    <entry file="file://$PROJECT_DIR$/QuickApp/Controllers/ToDoController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="385">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
-            <marker date="1552520522766" expanded="true" signature="63:303" ph="{...}" />
-            <marker date="1552520522766" expanded="true" signature="106:301" ph="{...}" />
-            <marker date="1552520522766" expanded="true" signature="206:239" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QuickApp/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="31" column="53" lean-forward="true" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
-          <folding>
-            <marker date="1552520749437" expanded="false" signature="6:439" ph="..." />
-            <marker date="1552520749437" expanded="true" signature="482:1648" ph="{...}" />
-            <marker date="1552520749437" expanded="true" signature="509:1646" ph="{...}" />
-            <marker date="1552520749437" expanded="true" signature="568:631" ph="{...}" />
-            <marker date="1552520749437" expanded="true" signature="854:1176" ph="{...}" />
-            <marker date="1552520749437" expanded="true" signature="1364:1640" ph="{...}" />
-            <marker date="1552520749437" expanded="true" signature="1411:1488" ph="{...}" />
-            <marker date="1552520749437" expanded="true" signature="1505:1564" ph="{...}" />
+            <marker date="1552521497688" expanded="true" signature="6:73" ph="..." />
+            <marker date="1552521497688" expanded="true" signature="105:707" ph="{...}" />
+            <marker date="1552521497688" expanded="true" signature="208:705" ph="{...}" />
+            <marker date="1552521497688" expanded="true" signature="330:699" ph="{...}" />
+            <marker date="1552521497688" expanded="true" signature="422:689" ph="{...}" />
+            <marker date="1552521497688" expanded="true" signature="453:564" ph="/* Create a new TodoItem if collection is empty, ... */" />
           </folding>
         </state>
       </provider>
